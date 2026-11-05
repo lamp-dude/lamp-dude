@@ -2,7 +2,7 @@
 
 I'm Robbie, a game developer based in the US.
 
-I got into game development because I can build and create anything I can imagine in a virtual world. 
+I got into game development because I can build and create anything I can imagine in a virtual world. I enjoy experimenting with ideas and turning concepts into something people can actually play.
 
 I have made many websites and dwelled into experimenting with other programming concepts and languages.
 
